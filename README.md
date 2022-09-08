@@ -4,13 +4,10 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Projeto para treinar técnicas aprendidas em cursos de flutter
 
-A few resources to get you started if this is your first Flutter project:
+- Atualização 08/09/2022
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Atualização da página inicial com uma imagem de fundo e dois botões sobre a imagem.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  Próximos passos persistência de dados para adicionar a receita!
